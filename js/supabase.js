@@ -1,1 +1,1 @@
-const SUPABASE_URL='YOUR_URL'; const SUPABASE_KEY='YOUR_KEY';
+const SUPABASE_URL='https://jmorsydfzcjurdxvzioo.supabase.co'; const SUPABASE_KEY='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imptb3JzeWRmemNqdXJkeHZ6aW9vIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA5MjAxMDQsImV4cCI6MjEwNjQ5NjEwNH0._C4lgzfOEAq1Lt9NXEqdNwVgx_Buxuf0IvKa_HAW3pM';
