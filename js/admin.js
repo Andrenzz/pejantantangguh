@@ -1,0 +1,1 @@
+function syncStorage(){alert('Sync Storage Ready')}

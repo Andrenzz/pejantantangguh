@@ -1,0 +1,1 @@
+HTML + Supabase version. Upload to GitHub, deploy Vercel, connect Supabase Storage and Database.
